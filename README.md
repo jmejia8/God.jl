@@ -3,7 +3,7 @@
 ## Install
 
 ```julia
-Pkg.clone("git@github.com:jmejia8/Metaheuristics.jl.git")
+Pkg.clone("git@github.com:jmejia8/God.jl.git")
 ```
 
 ## Simple Example
