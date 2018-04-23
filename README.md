@@ -1,6 +1,7 @@
 # God
 
 God of the answers
+[![Build Status](https://travis-ci.org/jmejia8/God.jl.svg?branch=master)](https://travis-ci.org/jmejia8/God.jl)
 
 ## Install
 
@@ -22,7 +23,6 @@ solver1(problem) = problem(0:10)
 solve(problem1, solver1)
 ```
 
-<!-- [![Build Status](https://travis-ci.org/jmejia8/God.jl.svg?branch=master)](https://travis-ci.org/jmejia8/God.jl) -->
 
 <!-- [![Coverage Status](https://coveralls.io/repos/jmejia8/God.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/jmejia8/God.jl?branch=master) -->
 
